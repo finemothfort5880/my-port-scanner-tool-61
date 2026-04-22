@@ -1,2 +1,9 @@
-# my-port-scanner-tool-61
-A simple port scanner project
+# Port Scanner
+
+A simple port scanner project.
+\n
+## Getting Started
+
+```bash
+python port.py
+```
